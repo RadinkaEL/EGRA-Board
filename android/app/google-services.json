@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1072073747440",
+    "firebase_url": "https://minesweeper32-2748f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "minesweeper32-2748f",
+    "storage_bucket": "minesweeper32-2748f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072073747440:android:5e1af6bb0a4a39a4928b35",
+        "android_client_info": {
+          "package_name": "com.example.speproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072073747440-eu3a14bvortd1tu3rm390c3rg0ofb656.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9SK9udpYaj_H1kx1vMOxjdCZ4uJUN94o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072073747440-eu3a14bvortd1tu3rm390c3rg0ofb656.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
